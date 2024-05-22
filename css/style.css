@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');h1{
+    color: blueviolet;
+font-size: 40px;
+
+text-align: center;
+font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+span, p{
+    color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Minecraft', sans-serif;
+}
+h2,h3{
+    color: chartreuse;
+    font-size: 30px;
+}
+body{background-image: url(/css/imajenes/when\ quiers\ poner\ un\ momazo\ de\ fondo.jpg);
+
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;}
+
